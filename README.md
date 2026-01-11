@@ -16,6 +16,16 @@ The project focuses on core gameplay systems, mobile controls, UI flow, and stab
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshots/main_menu.png"/>
+  <img src="Screenshots/gameplay.png"/>
+  <img src="Screenshots/Enemy.png"/>
+</p>
+
+---
+
 ## 🛒 Game Systems
 - In-game shop allowing players to purchase:
   - Flame Sword (combat upgrade)
